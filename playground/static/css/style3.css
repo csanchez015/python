@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    text-align: center;
+} 
+
+.bigBox{
+    text-align: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    display: inline-block;
+    border: solid 2px black;
+}
+
