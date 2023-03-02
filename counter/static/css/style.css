@@ -1,0 +1,17 @@
+.box{
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#button1{
+    background-color: rgb(70, 100, 236);
+    padding: 10px;
+    border-radius: 5px;
+}
+#button2{
+    background-color: rgb(236, 70, 70);
+    padding: 10px;
+    border-radius: 5px;
+}
